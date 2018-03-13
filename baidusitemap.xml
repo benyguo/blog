@@ -4,17 +4,80 @@
 
     
   <url>
+    <loc>http://amyge.com/blog/blog/post/16cae89c.html</loc>
+    <lastmod>2018-03-13T10:00:44.166Z</lastmod>
+    <data>
+        <display>
+        <title>__declspec关键字详解</title>
+        <pubTime>2018-03-13T09:51:15.000Z</pubTime>
+        
+        <tag>C/C++</tag>
+         
+         
+           
+             
+              <breadCrumb title="后端" url="http://amyge.com/blog/blog/categories/%E5%90%8E%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://amyge.com/blog/blog/post/4e59e7c5.html</loc>
+    <lastmod>2018-03-13T10:00:32.925Z</lastmod>
+    <data>
+        <display>
+        <title>访问URL时传入另一个URL作为参数</title>
+        <pubTime>2018-03-13T09:30:04.000Z</pubTime>
+        
+        <tag>javascript</tag>
+         
+         
+           
+             
+              <breadCrumb title="前端" url="http://amyge.com/blog/blog/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://amyge.com/blog/blog/post/e7d93b0c.html</loc>
-    <lastmod>2018-03-13T05:09:23.115Z</lastmod>
+    <lastmod>2018-03-13T09:55:22.292Z</lastmod>
     <data>
         <display>
         <title>jQuery.html()和innerHTML在IE8中失效</title>
         <pubTime>2018-03-12T12:26:43.000Z</pubTime>
         
-        <tag>前端,jQuery</tag>
+        <tag>jQuery</tag>
          
          
            
+             
+              <breadCrumb title="前端" url="http://amyge.com/blog/blog/categories/%E5%89%8D%E7%AB%AF/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://amyge.com/blog/blog/post/9ca378c1.html</loc>
+    <lastmod>2018-03-13T09:28:57.341Z</lastmod>
+    <data>
+        <display>
+        <title>linux尽量避免使用system()函数,用popen()代替</title>
+        <pubTime>2018-03-13T09:19:24.000Z</pubTime>
+        
+        <tag>C/C++</tag>
+         
+         
+           
+             
+              <breadCrumb title="后端" url="http://amyge.com/blog/blog/categories/%E5%90%8E%E7%AB%AF/"/>
+          
         </display>
     </data>
     </url>
@@ -22,7 +85,7 @@
     
   <url>
     <loc>http://amyge.com/blog/blog/post/d49fef81.html</loc>
-    <lastmod>2018-03-13T05:09:11.172Z</lastmod>
+    <lastmod>2018-03-13T09:26:57.922Z</lastmod>
     <data>
         <display>
         <title>开篇之作</title>
@@ -32,6 +95,9 @@
          
          
            
+             
+              <breadCrumb title="杂谈" url="http://amyge.com/blog/blog/categories/%E6%9D%82%E8%B0%88/"/>
+          
         </display>
     </data>
     </url>
